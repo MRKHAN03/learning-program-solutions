@@ -1,4 +1,4 @@
-package Week_1.DataStructuresAndAlgorithms.Exercise2_EcommercePlatformSearchFunction.Code.LinearSearch;
+package Week1.DataStructuresAndAlgorithms.EcommercePlatformSearchFunction.Code.LinearSearch;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Week_1.DataStructuresAndAlgorithms.Exercise2_EcommercePlatformSearchFunction.Code.BinarySearch;
+package Week1.DataStructuresAndAlgorithms.EcommercePlatformSearchFunction.Code.BinarySearch;
 
 import java.util.Scanner;
 
